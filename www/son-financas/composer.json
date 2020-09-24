@@ -1,0 +1,17 @@
+{
+    "name": "m2eo/son-financas",
+    "authors": [
+        {
+            "name": "Rodrigo Lima",
+            "email": "rodelima20@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "^0.12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SONFin\\": "src/"
+        }
+    }
+}
